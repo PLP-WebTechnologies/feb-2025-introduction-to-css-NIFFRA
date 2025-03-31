@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Styled Page</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header id="main-header">Welcome to My Page</header>
+  <section class="content">
+    <p>This is a paragraph with class-based styling.</p>
+    <img src="example.jpg" alt="A styled image">
+  </section>
+</body>
+</html>
